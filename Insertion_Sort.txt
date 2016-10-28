@@ -1,0 +1,19 @@
+How does insertion sort work?
+>  It loops over all positions in the array and finds the right spot for each number. 
+
+EG:	
+>  6,5,2,7,1,3,4
+>  5,6,2,7,1,3,4
+>  2,5,6,7,1,3,4
+>  2,5,6,7,1,3,4
+>  1,2,5,6,7,3,4
+>  1,2,3,5,6,7,4
+>  1,2,3,4,5,6,7
+
+ Runtime:
+	Time Complexity:
+		Worst case: O(n^2)
+		Average Case: O(n^2)
+	
+	Space Complexity:
+		Worst case: O(n)
