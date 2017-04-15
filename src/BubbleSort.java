@@ -1,7 +1,7 @@
 
 public class BubbleSort {
 	public static void main (String a[]){
-		int[] arr1 = {6,5,7,3,1,2};
+		int[] arr1 = {6,5,7,3,1,2,4};
 		BubbleSort(arr1);
 	}
 	
