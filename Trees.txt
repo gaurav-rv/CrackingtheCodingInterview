@@ -1,0 +1,15 @@
+
+Trees:
+	
+		Trasversing a tree:
+			PreOrder Transversal:
+				A node is visited before its decendants 
+				List the node the first time it is visited.
+			
+			Inorder Transversal:
+				A node is visited before its decendants
+				List the node the second time it is visited
+			
+			Post Order Transversal
+				.
+			
